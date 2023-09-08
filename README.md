@@ -6,3 +6,6 @@ Stack for i use in this project:
 - VueDraggable
 - VueSortable
 - DaisyUi / TailwindCss
+
+#Demo watch
+Click the link for the watch a demo - https://charming-macaron-3c86a3.netlify.app
