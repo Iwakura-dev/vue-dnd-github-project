@@ -7,5 +7,5 @@ Stack for i use in this project:
 - VueSortable
 - DaisyUi / TailwindCss
 
-#Demo watch
+# Demo watch
 Click the link for the watch a demo - https://charming-macaron-3c86a3.netlify.app
